@@ -18,7 +18,7 @@ That is a huge number of employees to be filled up in a short amount of time.
 
 
 
-* Out of the total ready-to-retire employees, **29,415** are *Senior Engineers* and **28,255** are *Senior Staffs* who will be retired in the next 4 years. That is a huge number for two titles to be filled up in four years.
+* Out of the total ready-to-retire employees, **29,414** are *Senior Engineers* and **28,254** are *Senior Staffs* who will be retired in the next 4 years. That is a huge number for two titles to be filled up in four years.
 
 ![Retiring Titles](Resources/Retiring_Titles.png)
 
